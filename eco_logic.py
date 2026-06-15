@@ -12,6 +12,9 @@ RECYCLE_RULES = {
     "electronico": "⚠️ E-waste. Llévalo a reciclaje electrónico/punto municipal.",
     "ropa": "👕 Reusar/donar primero. Si está dañada, úsala como trapo o busca reciclaje textil.",
     "aceite": "⚠️ No lo tires por el fregadero. Guárdalo y entrégalo en recogido de aceite usado (si existe).",
+    "vaso plastico": "♻️ Plástico. Enjuágalo primero y verifica si tu centro lo acepta.",
+    "servilleta": "🗑️ Si está sucia, usualmente va a basura o compost si es aceptado.",
+    "cartucho tinta": "⚠️ No va a la basura común. Llévalo a reciclaje de electrónicos o tienda que recoja cartuchos.",
 }
 
 DECOMPOSITION = {
